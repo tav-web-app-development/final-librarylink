@@ -1,0 +1,17 @@
+.home-page {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    max-width: 800px;
+    margin: 20px auto;
+  }
+  
+  .home-page h1 {
+    margin-bottom: 20px;
+  }
+  
+  .home-page p {
+    line-height: 1.6;
+  }
+  
